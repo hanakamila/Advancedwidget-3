@@ -1,10 +1,10 @@
 # Advancedwidget-3
 
 * Judul Project/Aplikasi<br>
-  <p> Advanced Widget 1 </p>
+  <p> Advanced Widget 3 </p>
 * ScreenShoot Aplikasi (minimal 2 screenshoot, berupa Gambar bukan link)<br>
-https://github.com/hanakamila/Advancedwidget-3/blob/master/3-aw-01.JPG<br><br>
-https://github.com/hanakamila/Advancedwidget-3/blob/master/3-aw-02.JPG
+<img src = "https://github.com/hanakamila/Advancedwidget-3/blob/master/3-aw-01.JPG"><br><br>
+<img src= "https://github.com/hanakamila/Advancedwidget-3/blob/master/3-aw-02.JPG"><br>
 * Identitas (Nama, Kelas, No Urut, NIS, Nama Sekolah)
 <p>
 Nama  : Hana Kamila <br>
